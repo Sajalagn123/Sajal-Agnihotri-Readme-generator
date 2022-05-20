@@ -1,0 +1,23 @@
+{
+  "name": "sajal-agnihotri-readme-generator",
+  "version": "1.0.0",
+  "description": "For this project I had to generate a readme using nodejs. The readme had to contain a description, table of contents, installation, usage, license, contributing, tests, and questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajalagn123/Sajal-Agnihotri-Readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajalagn123/Sajal-Agnihotri-Readme-generator/issues"
+  },
+  "homepage": "https://github.com/Sajalagn123/Sajal-Agnihotri-Readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
