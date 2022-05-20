@@ -21,7 +21,11 @@ node index.js
 ## Demo
 Here is a gif showcasing the generator in action:
 
-https://user-images.githubusercontent.com/98942793/169529066-de4916d0-640f-4f5a-b4b6-b25f6513f2cf.mp4
+
+
+https://user-images.githubusercontent.com/98942793/169530114-4596f2fe-8b4c-4c18-91f9-d48f47ede808.mp4
+
+
 
 ## Questions
 To reach out with any questions, contact me at Sajalagn2@gmail.com
