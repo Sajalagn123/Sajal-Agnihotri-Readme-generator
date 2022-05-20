@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/98942793/169530114-4596f2fe-8b4c-4c18-
 Here is the README.md example that was showcased in the video:
 ```
 Sajal's password generator
+
 Description
 User can randomly generate a password by clicking 'generate password' button
 
