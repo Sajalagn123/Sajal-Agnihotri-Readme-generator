@@ -1,5 +1,5 @@
 
-# Sajal's password generator
+# Sajal's Readme generator
 ## Description
 For this project I had to dynamically generate a README.md file by using the command in the git bash terminal:
 ```
